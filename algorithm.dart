@@ -8,7 +8,7 @@
 //   print(a+b);
 // }
 
-// Finding out the largest num in list which is unequal to a and multiply algorithm
+// Finding out the largest num in list which is not equal to a and multiply algorithm
 
 // void main(){
 //   List b = ['5','5','10','8'];
