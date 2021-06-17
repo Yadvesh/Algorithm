@@ -47,3 +47,17 @@
 //     largestNumber = int.parse(numList[0]);
 //   }
 // }
+
+
+// ---Week - 2 --- \\
+
+// // Fibonacci Number
+
+// void main(){
+//  print(fibonacci(6));
+// }
+
+// int fibonacci(int n) {
+//   if (n <= 0) return 0;
+//   return n < 2 ? n : (fibonacci(n - 1) + fibonacci(n - 2));
+// }
